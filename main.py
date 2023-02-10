@@ -23,7 +23,7 @@ while True:
                 #print(lm)
                 ih, iw, ic = img.shape
                 x,y = int(lm.x*iw), int(lm.y*ih)
-               # print(id,x,y)
+               # print(id,x,y)  # These are the points that you can use with other projects.
  
     cTime = time.time()
     fps = 1 / (cTime - pTime)
