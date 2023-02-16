@@ -18,7 +18,7 @@ The Program will detect 468 Face Landmarks with Google's Framework called Medaip
 ![image](https://user-images.githubusercontent.com/76829403/218071912-ea45bf91-bf47-4c7f-8ec1-330837846bb7.png)
 
 
-https://user-images.githubusercontent.com/76829403/218069895-bbb17050-95ba-40c7-a9f3-3ac06cf198ee.mp4
+https://user-images.githubusercontent.com/76829403/219402127-9ea0d00e-1963-43aa-9abc-7860b2b2ded9.mp4
 
 
 
@@ -29,4 +29,4 @@ https://user-images.githubusercontent.com/76829403/218069895-bbb17050-95ba-40c7-
 This framework is very useful it be used for object detection, face mash, face detectoin, bodi position detection etc.
 This is a robust framework which is avilable for C++ Javascript IOS/Android etc.
 
-###### I would like notedown an alternatvie to this framework -----> Yolo8 ( current version )
+###### I would like notedown an alternatvie to this framework -----> Yolo7 ( current version )
