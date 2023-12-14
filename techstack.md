@@ -24,7 +24,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [HaroonRehman/468-Face-Landmarks-of-Face-with-MediaPippe-Google-s-Library-in-Python-OpenCV](https://github.com/HaroonRehman/468-Face-Landmarks-of-Face-with-MediaPippe-Google-s-Library-in-Python-OpenCV)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|2<br/>Tools used|12/05/23 <br/>Report generated|
+|2<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
 </div>
 
