@@ -1,7 +1,8 @@
 repo_name: HaroonRehman/468-Face-Landmarks-of-Face-with-MediaPippe-Google-s-Library-in-Python-OpenCV
-report_id: b0db4d0adb31c5cd4b5276d226deb426
+report_id: 2ea4be34b2bfe3e83f4076be054666b7
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T13:27:30+00:00'
+timestamp: '2024-01-05T08:28:55+00:00'
 requested_by: HaroonRehman
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/HaroonRehman/468-Face-Landmarks-of-Face-with-MediaPippe-Google-s-Library-in-Python-OpenCV
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/HaroonRehman/468-Face-Landmarks-of-Face-with-MediaPippe-Google-s-Library-in-Python-OpenCV
   detection_source: Repo Metadata
